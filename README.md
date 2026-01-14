@@ -4,7 +4,7 @@ MyVault is a secure and feature-rich application designed to help users manage t
 It offers features like sending and receiving money with unique addresses, deposits and withdrawals through Stripe, private key authentication, and detailed transaction history. Additional functionalities include email notifications, login location tracking with Google Maps, and complete account deletion. MyVault prioritizes privacy and user responsibility<br>
 <strong>"Your vault, your responsibility."</strong>
 
-The live deployed site can be found [here](https://my-vault-cb8eb703ab63.herokuapp.com/)
+There is no live version at the moment; the app can be tested on the host server.
 
 ## Contents
 
